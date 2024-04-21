@@ -18,13 +18,13 @@
 	}
 
 	async function enviarReseña2() {
-		const encodedReview = encodeURIComponent(reviewText);
+		const encodedReview = encodeURIComponent(retrainedText);
 		const response = await fetch(
 			`https://fastapi-xw6s.onrender.com/predict/?review=${encodedReview}`
 		);
 		const data = await response.json();
 		console.log(data);
-		reviewResult = data.predicted_score;
+		retrainedResult = data.predicted_score;
 	}
 
 	// Función para cargar y reentrenar el sistema con nuevos datos
