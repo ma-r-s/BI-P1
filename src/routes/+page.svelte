@@ -45,17 +45,17 @@
 			<p class="mb-4">
 				Este proyecto de análisis de datos turísticos en los Alpes se realiza debido a la necesidad
 				de analizar las características de sitios turísticos que los hacen atractivos para turistas
-				locales o de otros países, ya sea para ir a conocerlos o recomendarlos que tienen el
-				Ministerio de Comercio, Industria y Turismo de Colombia, la Asociación Hotelera y Turística
-				de Colombia – COTELCO, y reconocidas cadenas hoteleras como Hilton, Hoteles Estelar y
-				Holiday Inn, así como hoteles más pequeños en diferentes municipios del país.
+				locales o de otros países, ya sea para ir a conocerlos o recomendarlos. Este sistema es
+				requerido por Ministerio de Comercio, Industria y Turismo de Colombia, la Asociación
+				Hotelera y Turística de Colombia – COTELCO, y reconocidas cadenas hoteleras como Hilton,
+				Hoteles Estelar y Holiday Inn, así como hoteles más pequeños en diferentes municipios del
+				país.
 			</p>
 			<p class="mb-4">
 				El objetivo principal del proyecto fue analizar las características de los sitios turísticos
-				en los Alpes que hacen que sean atractivos para turistas locales e internacionales. Para
-				ello, se emplearon técnicas de análisis de datos, incluyendo un modelo de regresión
-				logística, así como técnicas de procesamiento de lenguaje natural como stemming y matrices
-				TF-IDF.
+				en los Alpes que hacen que sean atractivos para turistas. Para ello, se emplearon técnicas
+				de análisis de datos, incluyendo un modelo de regresión logística, así como técnicas de
+				procesamiento de lenguaje natural como stemming y matrices TF-IDF.
 			</p>
 			<p class="mb-4">
 				Este sistema desarrollado permite predecir la calificación de una reseña turística a partir
